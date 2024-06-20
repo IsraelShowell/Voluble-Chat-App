@@ -44,6 +44,7 @@ In addition, since certain features were deprecated, it allowed me to practice w
 - Users can search for and chat with other users, and send emojis.
 - Users can update their profile username and profile picture
 - Users can use test phone numbers to test the application!
+- Users can logout from their accounts as well!
 
 
 # Future Plans:
