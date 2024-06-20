@@ -51,7 +51,7 @@ In addition, since certain features were deprecated, it allowed me to practice w
 - Enable push notifications 
 - Enable users to send videos and images
 - Allow users to add a Bio to their profile
-- Allow for sign ups via email/Anonymous 
+- Allow for sign ups via Email/Anonymous 
 
 # Known Bugs in V-1.00:
 - App may crash when pressing the back button after entering a chat
