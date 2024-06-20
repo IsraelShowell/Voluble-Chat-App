@@ -4,6 +4,9 @@
 # Project: Voluble - Chat App
 # Version: 1.00
 
+# Note: 
+See branch V-1-0-0 for the source code files, the APK file, and the test phone numbers that can be used to test out the application!
+
 # Description:
 This is a chat application made in Java and the backend Firebase!
 This project has provided me with basic knowledge on how to structure an Android app, effectively use Firebase as a backend, and develop a functional and useful application.
