@@ -4,8 +4,10 @@
 # Project: Voluble - Chat App
 # Version: 1.00
 
-# Note: 
-See branch V-1-0-0 for the source code files, the APK file, and the test phone numbers that can be used to test out the application!
+# Important Notes: 
+- See branch V-1-0-0 for the source code files, the APK file, and the test phone numbers that can be used to test out the application!
+- You can use your actual phone number, but I recommend using the test numbers since I am using Google's free Firebase I am limited to 10 free SMS messages a day and its just safer for your data to use the test numbers! (If I can add more numbers I can without any issues I will!)
+
 
 # Description:
 This is a chat application made in Java and the backend Firebase!
