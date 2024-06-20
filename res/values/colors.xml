@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Creator: Israel Showell -->
+    <!-- Last Updated: 6-7-2024 -->
+
+    <color name="primary">#AC3434</color>
+    <color name="secondary">#DCD53D</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="off_white">#F4F4F4</color>
+    <color name="light_gray">#BAB3B3</color>
+    
+    <color name="chat_color_sender">#1E88E5</color>
+    <color name="chat_color_receiver">#47823A</color>"
+</resources>

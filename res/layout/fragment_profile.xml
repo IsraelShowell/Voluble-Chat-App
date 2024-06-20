@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProfileFragment"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_margin="20dp">
+    
+    <ImageView
+        android:layout_width="160dp"
+        android:layout_height="160dp"
+        android:background="@drawable/circular_background"
+        android:backgroundTint="@color/primary"
+        android:src="@drawable/account_picture"
+        android:scaleType="centerCrop"
+        android:layout_marginBottom="30dp"
+        android:id="@+id/profile_image_view"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:hint="Enter Username"
+        android:inputType="text"
+        android:layout_margin="10dp"
+        android:textColor="@color/black"
+        android:background="@drawable/edit_text_rounded_corner"
+        android:elevation="5dp"
+        android:id="@+id/profile_username"
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:hint="Phone Number"
+        android:inputType="text"
+        android:layout_margin="10dp"
+        android:textColor="@color/black"
+        android:background="@drawable/edit_text_rounded_corner"
+        android:elevation="5dp"
+        android:enabled="false"
+        android:id="@+id/profile_phone"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:gravity="center_vertical"
+        android:orientation="vertical">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_rounded_corner"
+            android:textSize="20dp"
+            android:text="Update Voluble Profile"
+            android:id="@+id/profile_update_btn"
+            android:layout_marginTop="15dp">
+
+        </Button>
+
+        <ProgressBar
+            android:id="@+id/profile_progress_bar"
+            android:layout_width="50dp"
+            android:layout_height="35dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="3dp"
+            android:indeterminateTint="@color/primary"
+            android:elevation="2dp"
+            />
+
+    </LinearLayout>
+    
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Log Out"
+        android:elevation="5dp"
+        android:id="@+id/profile_logout_btn"/>
+
+
+</LinearLayout>
