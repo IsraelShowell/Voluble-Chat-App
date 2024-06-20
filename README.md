@@ -29,10 +29,10 @@ In addition, since certain features were deprecated, it allowed me to practice w
 
 
 # Version History:
-V-1.00: (6-7-24 - 6-20-24)
-Initial Version <br>
-Uploaded to Github <br>
-Voluble is currently able to be used comfortably on a small-scale <br>
+# V-1.00: (6-7-24 - 6-20-24)
+- Initial Version 
+- Uploaded to Github 
+- Voluble is currently able to be used comfortably on a small-scale <br>
 
 # Current Features as of V-1.00:
 - Users can use a phone number and recieve a OTP via Google's Firebase
