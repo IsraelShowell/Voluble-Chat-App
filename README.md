@@ -55,5 +55,6 @@ In addition, since certain features were deprecated, it allowed me to practice w
 
 # Known Bugs in V-1.00:
 - App may crash when pressing the back button after entering a chat
+- Using a real number seems to no longer work, may be due to usage limits
 
 
