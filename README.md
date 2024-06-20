@@ -5,7 +5,7 @@
 # Version: 1.00
 
 # Note: 
-See branch V-1-0-0 for the APK file!
+See branch V-1-0-0 for the source code files, the APK file, and the test phone numbers that can be used to test out the application!
 
 # Description:
 This is a chat application made in Java and the backend Firebase!
